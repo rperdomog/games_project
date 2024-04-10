@@ -1,0 +1,14 @@
+to create virtual environment
+
+python3 -m venv venv
+
+to activate virtual environment:
+
+source venv/bin/activate
+
+installing libraries
+
+pip install library_name
+
+
+
